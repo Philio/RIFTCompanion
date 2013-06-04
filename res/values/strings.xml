@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RIFT Companion</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="account_type">com.riftcompanion.account</string>
+    <string name="account_add_message">RIFT Companion uses an automatic account to sync data from the RIFT servers, you cannot add this account type.</string>
+
+</resources>
